@@ -46,7 +46,7 @@ const Calculator = () => {
 
     return (
         <div>
-            <div className="col d-flex gap-3">
+            <div className="col d-flex gap-3 bg-black">
                 <div className='d-flex flex-column'>
                     <label for="day">Day</label>
                     <input type="string" id="day" placeholder="Day"
